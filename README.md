@@ -7,7 +7,7 @@
 
 - ⚡ Tietoa minusta **Pidän videopeleistä ja teknologiasta, koska ne ovat minulle hauskoja ja kiinnostavia. Vapaa-ajallani teen sovelluksia ja ohjelmia. Mielestäni teknologia on tulevaisuus, koska sen avulla ihmiset voivat työskennellä paremman maailman luomiseksi.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
